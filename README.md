@@ -264,6 +264,22 @@ The system generates Grad-CAM heatmaps that:
 
 ---
 
+## Application Screenshots
+
+<p align="center">
+  <img src="screenshots/home_page.png" width="800">
+</p>
+
+<p align="center">
+  <img src="screenshots/prediction_result.png" width="800">
+</p>
+
+<p align="center">
+  <img src="screenshots/gradcam_output.png" width="800">
+</p>
+
+---
+
 ## Research Applications
 
 * Precision Agriculture
